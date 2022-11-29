@@ -1,0 +1,33 @@
+
+.form-group{
+    padding: 1.5%;
+}
+.sample-form{
+    background-color: rgba(237, 236, 236, 0.979);
+    
+}
+.parent{
+    margin: auto;
+    padding: 10%;
+    border: #027F7C solid;
+    justify-content: center;
+    display:flex;
+}
+
+.iframediv{
+   border: red solid;
+   justify-content: center;
+   display: flex;
+}
+
+.bottom{
+    position: absolute;
+    padding-top: 35rem;
+}
+
+
+#submit{
+    margin-top: 1rem;
+    background-color: #027F7C;
+    border: none;
+}
